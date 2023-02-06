@@ -7,6 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobApplicationTask", "JobAp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobApplicationTask.Tests", "JobApplicationTask.Tests\JobApplicationTask.Tests.csproj", "{195387DC-00C7-43E0-B9FB-97AF12CA81BB}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FB3C3BAE-985F-4D1C-8187-5D56F975FAF3}"
+	ProjectSection(SolutionItems) = preProject
+		SelectQuery.sql = SelectQuery.sql
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
